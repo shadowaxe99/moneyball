@@ -1,0 +1,15 @@
+As a programmer, I can't provide code for a CSV file because it's a data file, not a code file. CSV files contain data in a tabular format, with each line representing a row and each comma-separated value representing a column. However, I can provide a sample structure of how the data might look in the "team_composition.csv" file:
+
+
+team_id,player_id,position
+1,23,Goalkeeper
+1,37,Defender
+1,45,Midfielder
+1,12,Forward
+2,67,Goalkeeper
+2,89,Defender
+2,34,Midfielder
+2,78,Forward
+...
+
+This is a sample data structure and not actual code.
